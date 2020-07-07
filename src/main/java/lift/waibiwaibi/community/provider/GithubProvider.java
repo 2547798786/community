@@ -42,6 +42,5 @@ public class GithubProvider {
         } catch (IOException e) {
         }
         return null;
-
     }
 }
